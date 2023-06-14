@@ -1,0 +1,25 @@
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.vbproj.AssemblyReference.cache
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship_Demo.Form1.resources
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship_Demo.Form2.resources
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship_Demo.Form3.resources
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship_Demo.Resources.resources
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.vbproj.GenerateResource.cache
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.AssemblyInfoInputs.cache
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.AssemblyInfo.vb
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.vbproj.CoreCompileInputs.cache
+D:\sample projects\Internship Demo\Internship Demo\bin\Debug\net6.0-windows\Internship Demo.exe
+D:\sample projects\Internship Demo\Internship Demo\bin\Debug\net6.0-windows\Internship Demo.deps.json
+D:\sample projects\Internship Demo\Internship Demo\bin\Debug\net6.0-windows\Internship Demo.runtimeconfig.json
+D:\sample projects\Internship Demo\Internship Demo\bin\Debug\net6.0-windows\Internship Demo.dll
+D:\sample projects\Internship Demo\Internship Demo\bin\Debug\net6.0-windows\Internship Demo.pdb
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship_Demo.Form4.resources
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.dll
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\refint\Internship Demo.dll
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.pdb
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.genruntimeconfig.cache
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\ref\Internship Demo.dll
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.vbproj.ResolveComReference.cache
+D:\sample projects\Internship Demo\Internship Demo\bin\Debug\net6.0-windows\itextsharp.dll
+D:\sample projects\Internship Demo\Internship Demo\obj\Debug\net6.0-windows\Internship Demo.vbproj.CopyComplete
